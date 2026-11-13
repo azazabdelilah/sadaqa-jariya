@@ -1,0 +1,38 @@
+{
+  "number": 112,
+  "name": "سُورَةُ الإِخۡلَاصِ",
+  "englishName": "Al-Ikhlaas",
+  "englishNameTranslation": "Sincerity",
+  "numberOfAyahs": 4,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6222,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "translation": "Say, \"He is Allah, [who is] One,"
+    },
+    {
+      "number": 6223,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "ٱللَّهُ ٱلصَّمَدُ",
+      "translation": "Allah, the Eternal Refuge."
+    },
+    {
+      "number": 6224,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "translation": "He neither begets nor is born,"
+    },
+    {
+      "number": 6225,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "translation": "Nor is there to Him any equivalent.\""
+    }
+  ]
+}

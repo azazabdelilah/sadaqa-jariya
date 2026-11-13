@@ -1,0 +1,66 @@
+{
+  "number": 99,
+  "name": "سُورَةُ الزَّلۡزَلَةِ",
+  "englishName": "Az-Zalzala",
+  "englishNameTranslation": "The Earthquake",
+  "numberOfAyahs": 8,
+  "revelationType": "Medinan",
+  "ayahs": [
+    {
+      "number": 6139,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "translation": "When the earth is shaken with its [final] earthquake"
+    },
+    {
+      "number": 6140,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "translation": "And the earth discharges its burdens"
+    },
+    {
+      "number": 6141,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "translation": "And man says, \"What is [wrong] with it?\" -"
+    },
+    {
+      "number": 6142,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا",
+      "translation": "That Day, it will report its news"
+    },
+    {
+      "number": 6143,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "translation": "Because your Lord has commanded it."
+    },
+    {
+      "number": 6144,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "translation": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds."
+    },
+    {
+      "number": 6145,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ",
+      "translation": "So whoever does an atom's weight of good will see it,"
+    },
+    {
+      "number": 6146,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+      "translation": "And whoever does an atom's weight of evil will see it."
+    }
+  ]
+}

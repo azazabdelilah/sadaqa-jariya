@@ -1,0 +1,45 @@
+{
+  "number": 97,
+  "name": "سُورَةُ القَدۡرِ",
+  "englishName": "Al-Qadr",
+  "englishNameTranslation": "The Power, Fate",
+  "numberOfAyahs": 5,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6126,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "translation": "Indeed, We sent the Qur'an down during the Night of Decree."
+    },
+    {
+      "number": 6127,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "translation": "And what can make you know what is the Night of Decree?"
+    },
+    {
+      "number": 6128,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+      "translation": "The Night of Decree is better than a thousand months."
+    },
+    {
+      "number": 6129,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
+      "translation": "The angels and the Spirit descend therein by permission of their Lord for every matter."
+    },
+    {
+      "number": 6130,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "translation": "Peace it is until the emergence of dawn."
+    }
+  ]
+}

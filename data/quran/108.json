@@ -1,0 +1,31 @@
+{
+  "number": 108,
+  "name": "سُورَةُ الكَوۡثَرِ",
+  "englishName": "Al-Kawthar",
+  "englishNameTranslation": "Abundance",
+  "numberOfAyahs": 3,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6205,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "translation": "Indeed, We have granted you, [O Muhammad], al-Kawthar."
+    },
+    {
+      "number": 6206,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "translation": "So pray to your Lord and sacrifice [to Him alone]."
+    },
+    {
+      "number": 6207,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "translation": "Indeed, your enemy is the one cut off."
+    }
+  ]
+}

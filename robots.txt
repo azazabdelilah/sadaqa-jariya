@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadaqa-jariya.vercel.app/sitemap.xml

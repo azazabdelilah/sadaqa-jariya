@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الأدعية | الوقف الرقمي - تاج الدين مزيود</title>
+  <meta name="description" content="أدعية مأثورة وثابتة للميت رحمه الله - في ذكرى تاج الدين مزيود">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="أدعية مأثورة للميت رحمه الله | في ذكرى تاج الدين مزيود">
+  <meta property="og:description" content="أدعية مأثورة وثابتة للميت رحمه الله - في ذكرى تاج الدين مزيود">
+  <meta property="og:image" content="assets/pics/photo_1_full.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page-title="nav_supplications">
+  <!-- Navigation -->
+  <header class="site-nav">
+    <div class="container nav-inner">
+      <a href="index.html" class="nav-brand">
+        <div class="brand-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+          </svg>
+        </div>
+        <span data-i18n="site_name">الوقف الرقمي</span>
+      </a>
+
+      <!-- Desktop Links -->
+      <nav class="nav-menu" aria-label="Main Navigation">
+        <a href="index.html" class="nav-link" data-i18n="nav_home">الرئيسية</a>
+        <a href="quran.html" class="nav-link" data-i18n="nav_quran">القرآن</a>
+        <a href="adhkar.html" class="nav-link" data-i18n="nav_adhkar">الأذكار</a>
+        <a href="supplications.html" class="nav-link" data-i18n="nav_supplications">الأدعية</a>
+        <a href="gallery.html" class="nav-link" data-i18n="nav_gallery">المعرض</a>
+        <a href="about.html" class="nav-link" data-i18n="nav_about">عن الوقف</a>
+      </nav>
+
+      <!-- Nav Actions -->
+      <div class="nav-actions">
+        <button id="lang-toggle-btn" class="lang-btn" aria-label="Toggle Language">English</button>
+        <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme"></button>
+        <button id="mobile-menu-toggle" class="btn-icon mobile-toggle" aria-label="Toggle Menu" aria-expanded="false">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile Drawer -->
+    <div id="mobile-nav" class="mobile-nav">
+      <a href="index.html" class="nav-link" data-i18n="nav_home">الرئيسية</a>
+      <a href="quran.html" class="nav-link" data-i18n="nav_quran">القرآن</a>
+      <a href="adhkar.html" class="nav-link" data-i18n="nav_adhkar">الأذكار</a>
+      <a href="supplications.html" class="nav-link" data-i18n="nav_supplications">الأدعية</a>
+      <a href="gallery.html" class="nav-link" data-i18n="nav_gallery">المعرض</a>
+      <a href="about.html" class="nav-link" data-i18n="nav_about">عن الوقف</a>
+    </div>
+  </header>
+
+  <main class="container" style="padding-top: 3.5rem; padding-bottom: 4rem;">
+    <!-- Page Header -->
+    <div class="text-center" style="margin-bottom: 3rem;">
+      <h1 class="hero-title" style="margin-bottom: 0.5rem;" data-i18n="supplications_title">أدعية للمرحوم</h1>
+      <p class="text-muted" data-i18n="supplications_subtitle">ادعية مأثورة وثابتة للميت رحمه الله</p>
+    </div>
+
+    <!-- Duas Container -->
+    <div id="duas-container" style="max-width: 800px; margin: 0 auto;">
+      <div style="text-align: center; padding: 3rem 0;">
+        <p class="text-muted">جاري تحميل الأدعية...</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <h3 class="footer-title" data-i18n="sadaqa_jariya">صدقة جارية</h3>
+      <p class="footer-text">
+        <span data-i18n="footer_text">هذه المنصة مخصصة للأعمال الصالحة الجارية.</span>
+        <strong data-i18n="deceased_name">تاج الدين مزيود</strong>.
+      </p>
+      <div class="footer-copy">
+        &copy; 2026 <span data-i18n="site_name">الوقف الرقمي</span> | بدون إعلانات | 100% غير ربحي
+      </div>
+    </div>
+  </footer>
+
+  <script type="module">
+    import { initApp } from './assets/js/nav.js';
+    import { initSupplicationsPage } from './assets/js/supplications.js';
+    await initApp();
+    initSupplicationsPage();
+  </script>
+</body>
+</html>

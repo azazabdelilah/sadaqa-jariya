@@ -1,0 +1,38 @@
+{
+  "number": 106,
+  "name": "سُورَةُ قُرَيۡشٍ",
+  "englishName": "Quraish",
+  "englishNameTranslation": "Quraysh",
+  "numberOfAyahs": 4,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6194,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ",
+      "translation": "For the accustomed security of the Quraysh -"
+    },
+    {
+      "number": 6195,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "translation": "Their accustomed security [in] the caravan of winter and summer -"
+    },
+    {
+      "number": 6196,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ",
+      "translation": "Let them worship the Lord of this House,"
+    },
+    {
+      "number": 6197,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "translation": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "number": 90,
+  "name": "سُورَةُ البَلَدِ",
+  "englishName": "Al-Balad",
+  "englishNameTranslation": "The City",
+  "numberOfAyahs": 20,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6024,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+      "translation": "I swear by this city, Makkah -"
+    },
+    {
+      "number": 6025,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+      "translation": "And you, [O Muhammad], are free of restriction in this city -"
+    },
+    {
+      "number": 6026,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَوَالِدٍۢ وَمَا وَلَدَ",
+      "translation": "And [by] the father and that which was born [of him],"
+    },
+    {
+      "number": 6027,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+      "translation": "We have certainly created man into hardship."
+    },
+    {
+      "number": 6028,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+      "translation": "Does he think that never will anyone overcome him?"
+    },
+    {
+      "number": 6029,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا",
+      "translation": "He says, \"I have spent wealth in abundance.\""
+    },
+    {
+      "number": 6030,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "translation": "Does he think that no one has seen him?"
+    },
+    {
+      "number": 6031,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "translation": "Have We not made for him two eyes?"
+    },
+    {
+      "number": 6032,
+      "numberInSurah": 9,
+      "juz": 30,
+      "text": "وَلِسَانًۭا وَشَفَتَيْنِ",
+      "translation": "And a tongue and two lips?"
+    },
+    {
+      "number": 6033,
+      "numberInSurah": 10,
+      "juz": 30,
+      "text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+      "translation": "And have shown him the two ways?"
+    },
+    {
+      "number": 6034,
+      "numberInSurah": 11,
+      "juz": 30,
+      "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "translation": "But he has not broken through the difficult pass."
+    },
+    {
+      "number": 6035,
+      "numberInSurah": 12,
+      "juz": 30,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "translation": "And what can make you know what is [breaking through] the difficult pass?"
+    },
+    {
+      "number": 6036,
+      "numberInSurah": 13,
+      "juz": 30,
+      "text": "فَكُّ رَقَبَةٍ",
+      "translation": "It is the freeing of a slave"
+    },
+    {
+      "number": 6037,
+      "numberInSurah": 14,
+      "juz": 30,
+      "text": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+      "translation": "Or feeding on a day of severe hunger"
+    },
+    {
+      "number": 6038,
+      "numberInSurah": 15,
+      "juz": 30,
+      "text": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+      "translation": "An orphan of near relationship"
+    },
+    {
+      "number": 6039,
+      "numberInSurah": 16,
+      "juz": 30,
+      "text": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+      "translation": "Or a needy person in misery"
+    },
+    {
+      "number": 6040,
+      "numberInSurah": 17,
+      "juz": 30,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "translation": "And then being among those who believed and advised one another to patience and advised one another to compassion."
+    },
+    {
+      "number": 6041,
+      "numberInSurah": 18,
+      "juz": 30,
+      "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "translation": "Those are the companions of the right."
+    },
+    {
+      "number": 6042,
+      "numberInSurah": 19,
+      "juz": 30,
+      "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "translation": "But they who disbelieved in Our signs - those are the companions of the left."
+    },
+    {
+      "number": 6043,
+      "numberInSurah": 20,
+      "juz": 30,
+      "text": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+      "translation": "Over them will be fire closed in."
+    }
+  ]
+}

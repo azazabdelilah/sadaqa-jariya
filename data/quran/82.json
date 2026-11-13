@@ -1,0 +1,143 @@
+{
+  "number": 82,
+  "name": "سُورَةُ الانفِطَارِ",
+  "englishName": "Al-Infitaar",
+  "englishNameTranslation": "The Cleaving",
+  "numberOfAyahs": 19,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 5830,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "translation": "When the sky breaks apart"
+    },
+    {
+      "number": 5831,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "translation": "And when the stars fall, scattering,"
+    },
+    {
+      "number": 5832,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "translation": "And when the seas are erupted"
+    },
+    {
+      "number": 5833,
+      "numberInSurah": 4,
+      "juz": 30,
+      "text": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "translation": "And when the [contents of] graves are scattered,"
+    },
+    {
+      "number": 5834,
+      "numberInSurah": 5,
+      "juz": 30,
+      "text": "عَلِمَتْ نَفْسٌۭ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "translation": "A soul will [then] know what it has put forth and kept back."
+    },
+    {
+      "number": 5835,
+      "numberInSurah": 6,
+      "juz": 30,
+      "text": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "translation": "O mankind, what has deceived you concerning your Lord, the Generous,"
+    },
+    {
+      "number": 5836,
+      "numberInSurah": 7,
+      "juz": 30,
+      "text": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "translation": "Who created you, proportioned you, and balanced you?"
+    },
+    {
+      "number": 5837,
+      "numberInSurah": 8,
+      "juz": 30,
+      "text": "فِىٓ أَىِّ صُورَةٍۢ مَّا شَآءَ رَكَّبَكَ",
+      "translation": "In whatever form He willed has He assembled you."
+    },
+    {
+      "number": 5838,
+      "numberInSurah": 9,
+      "juz": 30,
+      "text": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "translation": "No! But you deny the Recompense."
+    },
+    {
+      "number": 5839,
+      "numberInSurah": 10,
+      "juz": 30,
+      "text": "وَإِنَّ عَلَيْكُمْ لَحَٰفِظِينَ",
+      "translation": "And indeed, [appointed] over you are keepers,"
+    },
+    {
+      "number": 5840,
+      "numberInSurah": 11,
+      "juz": 30,
+      "text": "كِرَامًۭا كَٰتِبِينَ",
+      "translation": "Noble and recording;"
+    },
+    {
+      "number": 5841,
+      "numberInSurah": 12,
+      "juz": 30,
+      "text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "translation": "They know whatever you do."
+    },
+    {
+      "number": 5842,
+      "numberInSurah": 13,
+      "juz": 30,
+      "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍۢ",
+      "translation": "Indeed, the righteous will be in pleasure,"
+    },
+    {
+      "number": 5843,
+      "numberInSurah": 14,
+      "juz": 30,
+      "text": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍۢ",
+      "translation": "And indeed, the wicked will be in Hellfire."
+    },
+    {
+      "number": 5844,
+      "numberInSurah": 15,
+      "juz": 30,
+      "text": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "translation": "They will [enter to] burn therein on the Day of Recompense,"
+    },
+    {
+      "number": 5845,
+      "numberInSurah": 16,
+      "juz": 30,
+      "text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "translation": "And never therefrom will they be absent."
+    },
+    {
+      "number": 5846,
+      "numberInSurah": 17,
+      "juz": 30,
+      "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "translation": "And what can make you know what is the Day of Recompense?"
+    },
+    {
+      "number": 5847,
+      "numberInSurah": 18,
+      "juz": 30,
+      "text": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "translation": "Then, what can make you know what is the Day of Recompense?"
+    },
+    {
+      "number": 5848,
+      "numberInSurah": 19,
+      "juz": 30,
+      "text": "يَوْمَ لَا تَمْلِكُ نَفْسٌۭ لِّنَفْسٍۢ شَيْـًۭٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍۢ لِّلَّهِ",
+      "translation": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah."
+    }
+  ]
+}

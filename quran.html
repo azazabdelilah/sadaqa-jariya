@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>القرآن الكريم | الوقف الرقمي - تاج الدين مزيود</title>
+  <meta name="description" content="تلاوة القرآن الكريم بالرسم العثماني مع الاستماع لتلاوات خاشعة والترجمة الإنجليزية - في ذكرى تاج الدين مزيود رحمه الله">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="القرآن الكريم | الوقف الرقمي - تاج الدين مزيود">
+  <meta property="og:description" content="تلاوة القرآن الكريم بالرسم العثماني مع الاستماع لتلاوات خاشعة والترجمة الإنجليزية - في ذكرى تاج الدين مزيود رحمه الله">
+  <meta property="og:image" content="assets/pics/photo_1_full.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body data-page-title="nav_quran">
+  <!-- Navigation -->
+  <header class="site-nav">
+    <div class="container nav-inner">
+      <a href="index.html" class="nav-brand">
+        <div class="brand-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+          </svg>
+        </div>
+        <span data-i18n="site_name">الوقف الرقمي</span>
+      </a>
+
+      <!-- Desktop Links -->
+      <nav class="nav-menu" aria-label="Main Navigation">
+        <a href="index.html" class="nav-link" data-i18n="nav_home">الرئيسية</a>
+        <a href="quran.html" class="nav-link" data-i18n="nav_quran">القرآن</a>
+        <a href="adhkar.html" class="nav-link" data-i18n="nav_adhkar">الأذكار</a>
+        <a href="supplications.html" class="nav-link" data-i18n="nav_supplications">الأدعية</a>
+        <a href="gallery.html" class="nav-link" data-i18n="nav_gallery">المعرض</a>
+        <a href="about.html" class="nav-link" data-i18n="nav_about">عن الوقف</a>
+      </nav>
+
+      <!-- Nav Actions -->
+      <div class="nav-actions">
+        <button id="lang-toggle-btn" class="lang-btn" aria-label="Toggle Language">English</button>
+        <button id="theme-toggle-btn" class="btn-icon" aria-label="Toggle Theme"></button>
+        <button id="mobile-menu-toggle" class="btn-icon mobile-toggle" aria-label="Toggle Menu" aria-expanded="false">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile Drawer -->
+    <div id="mobile-nav" class="mobile-nav">
+      <a href="index.html" class="nav-link" data-i18n="nav_home">الرئيسية</a>
+      <a href="quran.html" class="nav-link" data-i18n="nav_quran">القرآن</a>
+      <a href="adhkar.html" class="nav-link" data-i18n="nav_adhkar">الأذكار</a>
+      <a href="supplications.html" class="nav-link" data-i18n="nav_supplications">الأدعية</a>
+      <a href="gallery.html" class="nav-link" data-i18n="nav_gallery">المعرض</a>
+      <a href="about.html" class="nav-link" data-i18n="nav_about">عن الوقف</a>
+    </div>
+  </header>
+
+  <main class="container" style="padding-top: 3.5rem; padding-bottom: 4rem;">
+    <!-- Page Header -->
+    <div class="text-center" style="margin-bottom: 2.5rem;">
+      <h1 class="hero-title" style="margin-bottom: 0.5rem;" data-i18n="quran">القرآن الكريم</h1>
+      <p class="text-muted" data-i18n="quran_desc">اقرأ واستمع وتدبر كلمات الله. كل حرف تتلوه هو ثواب للمتوفى.</p>
+    </div>
+
+    <!-- Quran App View -->
+    <div id="quran-app">
+      <!-- Search Bar -->
+      <div id="search-wrapper" class="search-wrapper">
+        <input type="text"
+               id="surah-search"
+               class="search-input"
+               data-i18n-placeholder="search_surah"
+               placeholder="ابحث عن اسم السورة..."
+               autocomplete="off">
+        <div class="search-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </div>
+      </div>
+
+      <!-- Surah Cards Grid -->
+      <div id="surah-list-container" class="surah-grid">
+        <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 0;">
+          <p class="text-muted">جاري تحميل فهرس السور المباركة...</p>
+        </div>
+      </div>
+
+      <!-- Reader View -->
+      <div id="reader-view" class="reader-container hidden">
+        <!-- Reader Header -->
+        <div class="reader-header">
+          <div style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; width: 100%;">
+            <button onclick="closeReader()" class="btn btn-outline" style="padding: 0.4rem 0.9rem; font-size: 0.85rem; border-color: rgba(255,255,255,0.3); color: #fff; background: rgba(255,255,255,0.15);">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="transform: scaleX(-1);">
+                <polyline points="9 18 15 12 9 6"></polyline>
+              </svg>
+              <span data-i18n="back_to_surahs">العودة لقائمة السور</span>
+            </button>
+            <div class="arabic-font" style="font-size: 1.8rem; opacity: 0.6;">﷽</div>
+          </div>
+
+          <div class="reader-title-area">
+            <div>
+              <h2 id="reader-surah-title" class="reader-surah-name">Surah</h2>
+              <p id="reader-surah-info" class="reader-surah-meta">Meccan • 7 Ayahs</p>
+            </div>
+          </div>
+
+          <!-- Audio Player Bar -->
+          <div class="audio-player-bar">
+            <!-- Controls -->
+            <div class="audio-controls">
+              <button id="audio-prev-btn" class="btn-audio" aria-label="Previous Ayah" title="Previous Ayah">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="19 20 9 12 19 4 19 20"></polygon>
+                  <line x1="5" y1="19" x2="5" y2="5" stroke="currentColor" stroke-width="2"></line>
+                </svg>
+              </button>
+
+              <button id="audio-play-btn" class="btn-audio btn-play-main" aria-label="Play or Pause" title="Play">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" style="transform: translateX(1px)">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+              </button>
+
+              <button id="audio-next-btn" class="btn-audio" aria-label="Next Ayah" title="Next Ayah">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5 4 15 12 5 20 5 4"></polygon>
+                  <line x1="19" y1="5" x2="19" y2="19" stroke="currentColor" stroke-width="2"></line>
+                </svg>
+              </button>
+            </div>
+
+            <!-- Reciter Dropdown -->
+            <div class="reciter-select-wrap">
+              <label for="reciter-select" data-i18n="reciter">القارئ:</label>
+              <select id="reciter-select" class="reciter-select" aria-label="Select Reciter">
+                <option value="alafasy" data-i18n="reciter_alafasy">مشاري العفاسي</option>
+                <option value="husary" data-i18n="reciter_husary">محمود خليل الحصري</option>
+                <option value="abdulbasit" data-i18n="reciter_abdulbasit">عبد الباسط عبد الصمد</option>
+              </select>
+            </div>
+
+            <div id="audio-now-playing" class="audio-now-playing">القرآن الكريم</div>
+          </div>
+        </div>
+
+        <!-- Bismillah Banner -->
+        <div id="bismillah-area" class="bismillah-box">
+          بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+        </div>
+
+        <!-- Ayahs Container -->
+        <div id="ayahs-container">
+          <!-- Rendered by quran.js -->
+        </div>
+
+        <!-- Gift Recitation CTA -->
+        <div style="padding: 2rem; border-top: 1px solid var(--color-border); text-align: center; background: var(--color-card-bg);">
+          <button onclick="giftRecitation()" class="btn btn-gold">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="20 12 20 22 4 22 4 12"></polyline>
+              <rect x="2" y="7" width="20" height="5"></rect>
+              <line x1="12" y1="22" x2="12" y2="7"></line>
+              <path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"></path>
+              <path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"></path>
+            </svg>
+            <span data-i18n="gift_recitation">إهداء ثواب هذه القراءة</span>
+          </button>
+        </div>
+
+        <!-- Text Source Note -->
+        <div class="source-attribution" data-i18n="quran_source_note">
+          مصدر النص القرآني: مجمع الملك فهد لطباعة المصحف الشريف بالرسم العثماني (برواية حفص عن عاصم - مشروع تنزيل) | الترجمة الإنجليزية: صحيح إنترناشونال (Sahih International)
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <h3 class="footer-title" data-i18n="sadaqa_jariya">صدقة جارية</h3>
+      <p class="footer-text">
+        <span data-i18n="footer_text">هذه المنصة مخصصة للأعمال الصالحة الجارية.</span>
+        <strong data-i18n="deceased_name">تاج الدين مزيود</strong>.
+      </p>
+      <div class="footer-copy">
+        &copy; 2026 <span data-i18n="site_name">الوقف الرقمي</span> | بدون إعلانات | 100% غير ربحي
+      </div>
+    </div>
+  </footer>
+
+  <script type="module">
+    import { initApp } from './assets/js/nav.js';
+    import { initQuranPage } from './assets/js/quran.js';
+    await initApp();
+    initQuranPage();
+  </script>
+</body>
+</html>

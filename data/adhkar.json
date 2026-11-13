@@ -1,0 +1,50 @@
+{
+  "morning": [
+    {
+      "id": 1,
+      "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "translation": "We have reached the morning and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah alone, without partner...",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ النُّشُورُ.",
+      "translation": "O Allah, by You we enter the morning and by You we enter the evening, by You we live and by You we die, and unto You is the resurrection.",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ: عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ، وَمِدَادَ كَلِمَاتِهِ.",
+      "translation": "Glory is to Allah and praise is to Him, by the number of His creation and His pleasure, and by the weight of His throne, and the ink of His words.",
+      "count": 3
+    }
+  ],
+  "evening": [
+    {
+      "id": 4,
+      "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "translation": "We have reached the evening and at this very time all sovereignty belongs to Allah. All praise is for Allah...",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيرُ.",
+      "translation": "O Allah, by You we enter the evening and by You we enter the morning, by You we live and by You we die, and unto You is the final return.",
+      "count": 1
+    }
+  ],
+  "sleep": [
+    {
+      "id": 6,
+      "arabic": "بِاسْمِكَ رَبِّـي وَضَعْتُ جَنْبِـي، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ.",
+      "translation": "In Your name my Lord, I lie down and in Your name I rise. If You should take my soul then have mercy upon it, and if You should return it then protect it as You protect Your righteous slaves.",
+      "count": 1
+    },
+    {
+      "id": 7,
+      "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ.",
+      "translation": "O Allah, protect me from Your punishment on the Day You resurrect Your slaves.",
+      "count": 3
+    }
+  ]
+}

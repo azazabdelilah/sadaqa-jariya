@@ -1,0 +1,31 @@
+{
+  "number": 103,
+  "name": "سُورَةُ العَصۡرِ",
+  "englishName": "Al-Asr",
+  "englishNameTranslation": "The Declining Day, Epoch",
+  "numberOfAyahs": 3,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 6177,
+      "numberInSurah": 1,
+      "juz": 30,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "translation": "By time,"
+    },
+    {
+      "number": 6178,
+      "numberInSurah": 2,
+      "juz": 30,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+      "translation": "Indeed, mankind is in loss,"
+    },
+    {
+      "number": 6179,
+      "numberInSurah": 3,
+      "juz": 30,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "translation": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+    }
+  ]
+}

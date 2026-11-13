@@ -1,0 +1,1284 @@
+{
+  "number": 37,
+  "name": "سُورَةُ الصَّافَّاتِ",
+  "englishName": "As-Saaffaat",
+  "englishNameTranslation": "Those drawn up in Ranks",
+  "numberOfAyahs": 182,
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 3789,
+      "numberInSurah": 1,
+      "juz": 23,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلصَّٰٓفَّٰتِ صَفًّۭا",
+      "translation": "By those [angels] lined up in rows"
+    },
+    {
+      "number": 3790,
+      "numberInSurah": 2,
+      "juz": 23,
+      "text": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا",
+      "translation": "And those who drive [the clouds]"
+    },
+    {
+      "number": 3791,
+      "numberInSurah": 3,
+      "juz": 23,
+      "text": "فَٱلتَّٰلِيَٰتِ ذِكْرًا",
+      "translation": "And those who recite the message,"
+    },
+    {
+      "number": 3792,
+      "numberInSurah": 4,
+      "juz": 23,
+      "text": "إِنَّ إِلَٰهَكُمْ لَوَٰحِدٌۭ",
+      "translation": "Indeed, your God is One,"
+    },
+    {
+      "number": 3793,
+      "numberInSurah": 5,
+      "juz": 23,
+      "text": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَٰرِقِ",
+      "translation": "Lord of the heavens and the earth and that between them and Lord of the sunrises."
+    },
+    {
+      "number": 3794,
+      "numberInSurah": 6,
+      "juz": 23,
+      "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
+      "translation": "Indeed, We have adorned the nearest heaven with an adornment of stars"
+    },
+    {
+      "number": 3795,
+      "numberInSurah": 7,
+      "juz": 23,
+      "text": "وَحِفْظًۭا مِّن كُلِّ شَيْطَٰنٍۢ مَّارِدٍۢ",
+      "translation": "And as protection against every rebellious devil"
+    },
+    {
+      "number": 3796,
+      "numberInSurah": 8,
+      "juz": 23,
+      "text": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍۢ",
+      "translation": "[So] they may not listen to the exalted assembly [of angels] and are pelted from every side,"
+    },
+    {
+      "number": 3797,
+      "numberInSurah": 9,
+      "juz": 23,
+      "text": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ",
+      "translation": "Repelled; and for them is a constant punishment,"
+    },
+    {
+      "number": 3798,
+      "numberInSurah": 10,
+      "juz": 23,
+      "text": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ",
+      "translation": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]."
+    },
+    {
+      "number": 3799,
+      "numberInSurah": 11,
+      "juz": 23,
+      "text": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍۢ لَّازِبٍۭ",
+      "translation": "Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created men from sticky clay."
+    },
+    {
+      "number": 3800,
+      "numberInSurah": 12,
+      "juz": 23,
+      "text": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "translation": "But you wonder, while they mock,"
+    },
+    {
+      "number": 3801,
+      "numberInSurah": 13,
+      "juz": 23,
+      "text": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
+      "translation": "And when they are reminded, they remember not."
+    },
+    {
+      "number": 3802,
+      "numberInSurah": 14,
+      "juz": 23,
+      "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ يَسْتَسْخِرُونَ",
+      "translation": "And when they see a sign, they ridicule"
+    },
+    {
+      "number": 3803,
+      "numberInSurah": 15,
+      "juz": 23,
+      "text": "وَقَالُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌ",
+      "translation": "And say, \"This is not but obvious magic."
+    },
+    {
+      "number": 3804,
+      "numberInSurah": 16,
+      "juz": 23,
+      "text": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "translation": "When we have died and become dust and bones, are we indeed to be resurrected?"
+    },
+    {
+      "number": 3805,
+      "numberInSurah": 17,
+      "juz": 23,
+      "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "translation": "And our forefathers [as well]?\""
+    },
+    {
+      "number": 3806,
+      "numberInSurah": 18,
+      "juz": 23,
+      "text": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
+      "translation": "Say, \"Yes, and you will be [rendered] contemptible.\""
+    },
+    {
+      "number": 3807,
+      "numberInSurah": 19,
+      "juz": 23,
+      "text": "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَإِذَا هُمْ يَنظُرُونَ",
+      "translation": "It will be only one shout, and at once they will be observing."
+    },
+    {
+      "number": 3808,
+      "numberInSurah": 20,
+      "juz": 23,
+      "text": "وَقَالُوا۟ يَٰوَيْلَنَا هَٰذَا يَوْمُ ٱلدِّينِ",
+      "translation": "They will say, \"O woe to us! This is the Day of Recompense.\""
+    },
+    {
+      "number": 3809,
+      "numberInSurah": 21,
+      "juz": 23,
+      "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translation": "[They will be told], \"This is the Day of Judgement which you used to deny.\""
+    },
+    {
+      "number": 3810,
+      "numberInSurah": 22,
+      "juz": 23,
+      "text": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+      "translation": "[The angels will be ordered], \"Gather those who committed wrong, their kinds, and what they used to worship"
+    },
+    {
+      "number": 3811,
+      "numberInSurah": 23,
+      "juz": 23,
+      "text": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
+      "translation": "Other than Allah, and guide them to the path of Hellfire"
+    },
+    {
+      "number": 3812,
+      "numberInSurah": 24,
+      "juz": 23,
+      "text": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
+      "translation": "And stop them; indeed, they are to be questioned.\""
+    },
+    {
+      "number": 3813,
+      "numberInSurah": 25,
+      "juz": 23,
+      "text": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "translation": "[They will be asked], \"What is [wrong] with you? Why do you not help each other?\""
+    },
+    {
+      "number": 3814,
+      "numberInSurah": 26,
+      "juz": 23,
+      "text": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ",
+      "translation": "But they, that Day, are in surrender."
+    },
+    {
+      "number": 3815,
+      "numberInSurah": 27,
+      "juz": 23,
+      "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+      "translation": "And they will approach one another blaming each other."
+    },
+    {
+      "number": 3816,
+      "numberInSurah": 28,
+      "juz": 23,
+      "text": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ",
+      "translation": "They will say, \"Indeed, you used to come at us from the right.\""
+    },
+    {
+      "number": 3817,
+      "numberInSurah": 29,
+      "juz": 23,
+      "text": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
+      "translation": "The oppressors will say, \"Rather, you [yourselves] were not believers,"
+    },
+    {
+      "number": 3818,
+      "numberInSurah": 30,
+      "juz": 23,
+      "text": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًۭا طَٰغِينَ",
+      "translation": "And we had over you no authority, but you were a transgressing people."
+    },
+    {
+      "number": 3819,
+      "numberInSurah": 31,
+      "juz": 23,
+      "text": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ",
+      "translation": "So the word of our Lord has come into effect upon us; indeed, we will taste [punishment]."
+    },
+    {
+      "number": 3820,
+      "numberInSurah": 32,
+      "juz": 23,
+      "text": "فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ",
+      "translation": "And we led you to deviation; indeed, we were deviators.\""
+    },
+    {
+      "number": 3821,
+      "numberInSurah": 33,
+      "juz": 23,
+      "text": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
+      "translation": "So indeed they, that Day, will be sharing in the punishment."
+    },
+    {
+      "number": 3822,
+      "numberInSurah": 34,
+      "juz": 23,
+      "text": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "translation": "Indeed, that is how We deal with the criminals."
+    },
+    {
+      "number": 3823,
+      "numberInSurah": 35,
+      "juz": 23,
+      "text": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ",
+      "translation": "Indeed they, when it was said to them, \"There is no deity but Allah,\" were arrogant"
+    },
+    {
+      "number": 3824,
+      "numberInSurah": 36,
+      "juz": 23,
+      "text": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍۢ مَّجْنُونٍۭ",
+      "translation": "And were saying, \"Are we to leave our gods for a mad poet?\""
+    },
+    {
+      "number": 3825,
+      "numberInSurah": 37,
+      "juz": 23,
+      "text": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
+      "translation": "Rather, the Prophet has come with the truth and confirmed the [previous] messengers."
+    },
+    {
+      "number": 3826,
+      "numberInSurah": 38,
+      "juz": 23,
+      "text": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
+      "translation": "Indeed, you [disbelievers] will be tasters of the painful punishment,"
+    },
+    {
+      "number": 3827,
+      "numberInSurah": 39,
+      "juz": 23,
+      "text": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "translation": "And you will not be recompensed except for what you used to do -"
+    },
+    {
+      "number": 3828,
+      "numberInSurah": 40,
+      "juz": 23,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation": "But not the chosen servants of Allah."
+    },
+    {
+      "number": 3829,
+      "numberInSurah": 41,
+      "juz": 23,
+      "text": "أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ",
+      "translation": "Those will have a provision determined -"
+    },
+    {
+      "number": 3830,
+      "numberInSurah": 42,
+      "juz": 23,
+      "text": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+      "translation": "Fruits; and they will be honored"
+    },
+    {
+      "number": 3831,
+      "numberInSurah": 43,
+      "juz": 23,
+      "text": "فِى جَنَّٰتِ ٱلنَّعِيمِ",
+      "translation": "In gardens of pleasure"
+    },
+    {
+      "number": 3832,
+      "numberInSurah": 44,
+      "juz": 23,
+      "text": "عَلَىٰ سُرُرٍۢ مُّتَقَٰبِلِينَ",
+      "translation": "On thrones facing one another."
+    },
+    {
+      "number": 3833,
+      "numberInSurah": 45,
+      "juz": 23,
+      "text": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ مِّن مَّعِينٍۭ",
+      "translation": "There will be circulated among them a cup [of wine] from a flowing spring,"
+    },
+    {
+      "number": 3834,
+      "numberInSurah": 46,
+      "juz": 23,
+      "text": "بَيْضَآءَ لَذَّةٍۢ لِّلشَّٰرِبِينَ",
+      "translation": "White and delicious to the drinkers;"
+    },
+    {
+      "number": 3835,
+      "numberInSurah": 47,
+      "juz": 23,
+      "text": "لَا فِيهَا غَوْلٌۭ وَلَا هُمْ عَنْهَا يُنزَفُونَ",
+      "translation": "No bad effect is there in it, nor from it will they be intoxicated."
+    },
+    {
+      "number": 3836,
+      "numberInSurah": 48,
+      "juz": 23,
+      "text": "وَعِندَهُمْ قَٰصِرَٰتُ ٱلطَّرْفِ عِينٌۭ",
+      "translation": "And with them will be women limiting [their] glances, with large, [beautiful] eyes,"
+    },
+    {
+      "number": 3837,
+      "numberInSurah": 49,
+      "juz": 23,
+      "text": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ",
+      "translation": "As if they were [delicate] eggs, well-protected."
+    },
+    {
+      "number": 3838,
+      "numberInSurah": 50,
+      "juz": 23,
+      "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+      "translation": "And they will approach one another, inquiring of each other."
+    },
+    {
+      "number": 3839,
+      "numberInSurah": 51,
+      "juz": 23,
+      "text": "قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ",
+      "translation": "A speaker among them will say, \"Indeed, I had a companion [on earth]"
+    },
+    {
+      "number": 3840,
+      "numberInSurah": 52,
+      "juz": 23,
+      "text": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ",
+      "translation": "Who would say, 'Are you indeed of those who believe"
+    },
+    {
+      "number": 3841,
+      "numberInSurah": 53,
+      "juz": 23,
+      "text": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+      "translation": "That when we have died and become dust and bones, we will indeed be recompensed?'\""
+    },
+    {
+      "number": 3842,
+      "numberInSurah": 54,
+      "juz": 23,
+      "text": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
+      "translation": "He will say, \"Would you [care to] look?\""
+    },
+    {
+      "number": 3843,
+      "numberInSurah": 55,
+      "juz": 23,
+      "text": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+      "translation": "And he will look and see him in the midst of the Hellfire."
+    },
+    {
+      "number": 3844,
+      "numberInSurah": 56,
+      "juz": 23,
+      "text": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
+      "translation": "He will say, \"By Allah, you almost ruined me."
+    },
+    {
+      "number": 3845,
+      "numberInSurah": 57,
+      "juz": 23,
+      "text": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
+      "translation": "If not for the favor of my Lord, I would have been of those brought in [to Hell]."
+    },
+    {
+      "number": 3846,
+      "numberInSurah": 58,
+      "juz": 23,
+      "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+      "translation": "Then, are we not to die"
+    },
+    {
+      "number": 3847,
+      "numberInSurah": 59,
+      "juz": 23,
+      "text": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "translation": "Except for our first death, and we will not be punished?\""
+    },
+    {
+      "number": 3848,
+      "numberInSurah": 60,
+      "juz": 23,
+      "text": "إِنَّ هَٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "translation": "Indeed, this is the great attainment."
+    },
+    {
+      "number": 3849,
+      "numberInSurah": 61,
+      "juz": 23,
+      "text": "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ ٱلْعَٰمِلُونَ",
+      "translation": "For the like of this let the workers [on earth] work."
+    },
+    {
+      "number": 3850,
+      "numberInSurah": 62,
+      "juz": 23,
+      "text": "أَذَٰلِكَ خَيْرٌۭ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
+      "translation": "Is Paradise a better accommodation or the tree of zaqqum?"
+    },
+    {
+      "number": 3851,
+      "numberInSurah": 63,
+      "juz": 23,
+      "text": "إِنَّا جَعَلْنَٰهَا فِتْنَةًۭ لِّلظَّٰلِمِينَ",
+      "translation": "Indeed, We have made it a torment for the wrongdoers."
+    },
+    {
+      "number": 3852,
+      "numberInSurah": 64,
+      "juz": 23,
+      "text": "إِنَّهَا شَجَرَةٌۭ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
+      "translation": "Indeed, it is a tree issuing from the bottom of the Hellfire,"
+    },
+    {
+      "number": 3853,
+      "numberInSurah": 65,
+      "juz": 23,
+      "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ",
+      "translation": "Its emerging fruit as if it was heads of the devils."
+    },
+    {
+      "number": 3854,
+      "numberInSurah": 66,
+      "juz": 23,
+      "text": "فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "translation": "And indeed, they will eat from it and fill with it their bellies."
+    },
+    {
+      "number": 3855,
+      "numberInSurah": 67,
+      "juz": 23,
+      "text": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًۭا مِّنْ حَمِيمٍۢ",
+      "translation": "Then indeed, they will have after it a mixture of scalding water."
+    },
+    {
+      "number": 3856,
+      "numberInSurah": 68,
+      "juz": 23,
+      "text": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
+      "translation": "Then indeed, their return will be to the Hellfire."
+    },
+    {
+      "number": 3857,
+      "numberInSurah": 69,
+      "juz": 23,
+      "text": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+      "translation": "Indeed they found their fathers astray."
+    },
+    {
+      "number": 3858,
+      "numberInSurah": 70,
+      "juz": 23,
+      "text": "فَهُمْ عَلَىٰٓ ءَاثَٰرِهِمْ يُهْرَعُونَ",
+      "translation": "So they hastened [to follow] in their footsteps."
+    },
+    {
+      "number": 3859,
+      "numberInSurah": 71,
+      "juz": 23,
+      "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ",
+      "translation": "And there had already strayed before them most of the former peoples,"
+    },
+    {
+      "number": 3860,
+      "numberInSurah": 72,
+      "juz": 23,
+      "text": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
+      "translation": "And We had already sent among them warners."
+    },
+    {
+      "number": 3861,
+      "numberInSurah": 73,
+      "juz": 23,
+      "text": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "translation": "Then look how was the end of those who were warned -"
+    },
+    {
+      "number": 3862,
+      "numberInSurah": 74,
+      "juz": 23,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation": "But not the chosen servants of Allah."
+    },
+    {
+      "number": 3863,
+      "numberInSurah": 75,
+      "juz": 23,
+      "text": "وَلَقَدْ نَادَىٰنَا نُوحٌۭ فَلَنِعْمَ ٱلْمُجِيبُونَ",
+      "translation": "And Noah had certainly called Us, and [We are] the best of responders."
+    },
+    {
+      "number": 3864,
+      "numberInSurah": 76,
+      "juz": 23,
+      "text": "وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "translation": "And We saved him and his family from the great affliction."
+    },
+    {
+      "number": 3865,
+      "numberInSurah": 77,
+      "juz": 23,
+      "text": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+      "translation": "And We made his descendants those remaining [on the earth]"
+    },
+    {
+      "number": 3866,
+      "numberInSurah": 78,
+      "juz": 23,
+      "text": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ",
+      "translation": "And left for him [favorable mention] among later generations:"
+    },
+    {
+      "number": 3867,
+      "numberInSurah": 79,
+      "juz": 23,
+      "text": "سَلَٰمٌ عَلَىٰ نُوحٍۢ فِى ٱلْعَٰلَمِينَ",
+      "translation": "\"Peace upon Noah among the worlds.\""
+    },
+    {
+      "number": 3868,
+      "numberInSurah": 80,
+      "juz": 23,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation": "Indeed, We thus reward the doers of good."
+    },
+    {
+      "number": 3869,
+      "numberInSurah": 81,
+      "juz": 23,
+      "text": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation": "Indeed, he was of Our believing servants."
+    },
+    {
+      "number": 3870,
+      "numberInSurah": 82,
+      "juz": 23,
+      "text": "ثُمَّ أَغْرَقْنَا ٱلْءَاخَرِينَ",
+      "translation": "Then We drowned the disbelievers."
+    },
+    {
+      "number": 3871,
+      "numberInSurah": 83,
+      "juz": 23,
+      "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
+      "translation": "And indeed, among his kind was Abraham,"
+    },
+    {
+      "number": 3872,
+      "numberInSurah": 84,
+      "juz": 23,
+      "text": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍۢ سَلِيمٍ",
+      "translation": "When he came to his Lord with a sound heart"
+    },
+    {
+      "number": 3873,
+      "numberInSurah": 85,
+      "juz": 23,
+      "text": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+      "translation": "[And] when he said to his father and his people, \"What do you worship?"
+    },
+    {
+      "number": 3874,
+      "numberInSurah": 86,
+      "juz": 23,
+      "text": "أَئِفْكًا ءَالِهَةًۭ دُونَ ٱللَّهِ تُرِيدُونَ",
+      "translation": "Is it falsehood [as] gods other than Allah you desire?"
+    },
+    {
+      "number": 3875,
+      "numberInSurah": 87,
+      "juz": 23,
+      "text": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ",
+      "translation": "Then what is your thought about the Lord of the worlds?\""
+    },
+    {
+      "number": 3876,
+      "numberInSurah": 88,
+      "juz": 23,
+      "text": "فَنَظَرَ نَظْرَةًۭ فِى ٱلنُّجُومِ",
+      "translation": "And he cast a look at the stars"
+    },
+    {
+      "number": 3877,
+      "numberInSurah": 89,
+      "juz": 23,
+      "text": "فَقَالَ إِنِّى سَقِيمٌۭ",
+      "translation": "And said, \"Indeed, I am [about to be] ill.\""
+    },
+    {
+      "number": 3878,
+      "numberInSurah": 90,
+      "juz": 23,
+      "text": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
+      "translation": "So they turned away from him, departing."
+    },
+    {
+      "number": 3879,
+      "numberInSurah": 91,
+      "juz": 23,
+      "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "translation": "Then he turned to their gods and said, \"Do you not eat?"
+    },
+    {
+      "number": 3880,
+      "numberInSurah": 92,
+      "juz": 23,
+      "text": "مَا لَكُمْ لَا تَنطِقُونَ",
+      "translation": "What is [wrong] with you that you do not speak?\""
+    },
+    {
+      "number": 3881,
+      "numberInSurah": 93,
+      "juz": 23,
+      "text": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
+      "translation": "And he turned upon them a blow with [his] right hand."
+    },
+    {
+      "number": 3882,
+      "numberInSurah": 94,
+      "juz": 23,
+      "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
+      "translation": "Then the people came toward him, hastening."
+    },
+    {
+      "number": 3883,
+      "numberInSurah": 95,
+      "juz": 23,
+      "text": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+      "translation": "He said, \"Do you worship that which you [yourselves] carve,"
+    },
+    {
+      "number": 3884,
+      "numberInSurah": 96,
+      "juz": 23,
+      "text": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "translation": "While Allah created you and that which you do?\""
+    },
+    {
+      "number": 3885,
+      "numberInSurah": 97,
+      "juz": 23,
+      "text": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+      "translation": "They said, \"Construct for him a furnace and throw him into the burning fire.\""
+    },
+    {
+      "number": 3886,
+      "numberInSurah": 98,
+      "juz": 23,
+      "text": "فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ",
+      "translation": "And they intended for him a plan, but We made them the most debased."
+    },
+    {
+      "number": 3887,
+      "numberInSurah": 99,
+      "juz": 23,
+      "text": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
+      "translation": "And [then] he said, \"Indeed, I will go to [where I am ordered by] my Lord; He will guide me."
+    },
+    {
+      "number": 3888,
+      "numberInSurah": 100,
+      "juz": 23,
+      "text": "رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ",
+      "translation": "My Lord, grant me [a child] from among the righteous.\""
+    },
+    {
+      "number": 3889,
+      "numberInSurah": 101,
+      "juz": 23,
+      "text": "فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍۢ",
+      "translation": "So We gave him good tidings of a forbearing boy."
+    },
+    {
+      "number": 3890,
+      "numberInSurah": 102,
+      "juz": 23,
+      "text": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "translation": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.\""
+    },
+    {
+      "number": 3891,
+      "numberInSurah": 103,
+      "juz": 23,
+      "text": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+      "translation": "And when they had both submitted and he put him down upon his forehead,"
+    },
+    {
+      "number": 3892,
+      "numberInSurah": 104,
+      "juz": 23,
+      "text": "وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ",
+      "translation": "We called to him, \"O Abraham,"
+    },
+    {
+      "number": 3893,
+      "numberInSurah": 105,
+      "juz": 23,
+      "text": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation": "You have fulfilled the vision.\" Indeed, We thus reward the doers of good."
+    },
+    {
+      "number": 3894,
+      "numberInSurah": 106,
+      "juz": 23,
+      "text": "إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ",
+      "translation": "Indeed, this was the clear trial."
+    },
+    {
+      "number": 3895,
+      "numberInSurah": 107,
+      "juz": 23,
+      "text": "وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍۢ",
+      "translation": "And We ransomed him with a great sacrifice,"
+    },
+    {
+      "number": 3896,
+      "numberInSurah": 108,
+      "juz": 23,
+      "text": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ",
+      "translation": "And We left for him [favorable mention] among later generations:"
+    },
+    {
+      "number": 3897,
+      "numberInSurah": 109,
+      "juz": 23,
+      "text": "سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
+      "translation": "\"Peace upon Abraham.\""
+    },
+    {
+      "number": 3898,
+      "numberInSurah": 110,
+      "juz": 23,
+      "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation": "Indeed, We thus reward the doers of good."
+    },
+    {
+      "number": 3899,
+      "numberInSurah": 111,
+      "juz": 23,
+      "text": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation": "Indeed, he was of Our believing servants."
+    },
+    {
+      "number": 3900,
+      "numberInSurah": 112,
+      "juz": 23,
+      "text": "وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ",
+      "translation": "And We gave him good tidings of Isaac, a prophet from among the righteous."
+    },
+    {
+      "number": 3901,
+      "numberInSurah": 113,
+      "juz": 23,
+      "text": "وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌۭ وَظَالِمٌۭ لِّنَفْسِهِۦ مُبِينٌۭ",
+      "translation": "And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself."
+    },
+    {
+      "number": 3902,
+      "numberInSurah": 114,
+      "juz": 23,
+      "text": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ",
+      "translation": "And We did certainly confer favor upon Moses and Aaron."
+    },
+    {
+      "number": 3903,
+      "numberInSurah": 115,
+      "juz": 23,
+      "text": "وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "translation": "And We saved them and their people from the great affliction,"
+    },
+    {
+      "number": 3904,
+      "numberInSurah": 116,
+      "juz": 23,
+      "text": "وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ",
+      "translation": "And We supported them so it was they who overcame."
+    },
+    {
+      "number": 3905,
+      "numberInSurah": 117,
+      "juz": 23,
+      "text": "وَءَاتَيْنَٰهُمَا ٱلْكِتَٰبَ ٱلْمُسْتَبِينَ",
+      "translation": "And We gave them the explicit Scripture,"
+    },
+    {
+      "number": 3906,
+      "numberInSurah": 118,
+      "juz": 23,
+      "text": "وَهَدَيْنَٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "translation": "And We guided them on the straight path."
+    },
+    {
+      "number": 3907,
+      "numberInSurah": 119,
+      "juz": 23,
+      "text": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْءَاخِرِينَ",
+      "translation": "And We left for them [favorable mention] among later generations:"
+    },
+    {
+      "number": 3908,
+      "numberInSurah": 120,
+      "juz": 23,
+      "text": "سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ",
+      "translation": "\"Peace upon Moses and Aaron.\""
+    },
+    {
+      "number": 3909,
+      "numberInSurah": 121,
+      "juz": 23,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation": "Indeed, We thus reward the doers of good."
+    },
+    {
+      "number": 3910,
+      "numberInSurah": 122,
+      "juz": 23,
+      "text": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation": "Indeed, they were of Our believing servants."
+    },
+    {
+      "number": 3911,
+      "numberInSurah": 123,
+      "juz": 23,
+      "text": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "translation": "And indeed, Elias was from among the messengers,"
+    },
+    {
+      "number": 3912,
+      "numberInSurah": 124,
+      "juz": 23,
+      "text": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+      "translation": "When he said to his people, \"Will you not fear Allah?"
+    },
+    {
+      "number": 3913,
+      "numberInSurah": 125,
+      "juz": 23,
+      "text": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ",
+      "translation": "Do you call upon Ba'l and leave the best of creators -"
+    },
+    {
+      "number": 3914,
+      "numberInSurah": 126,
+      "juz": 23,
+      "text": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "translation": "Allah, your Lord and the Lord of your first forefathers?\""
+    },
+    {
+      "number": 3915,
+      "numberInSurah": 127,
+      "juz": 23,
+      "text": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+      "translation": "And they denied him, so indeed, they will be brought [for punishment],"
+    },
+    {
+      "number": 3916,
+      "numberInSurah": 128,
+      "juz": 23,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation": "Except the chosen servants of Allah."
+    },
+    {
+      "number": 3917,
+      "numberInSurah": 129,
+      "juz": 23,
+      "text": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ",
+      "translation": "And We left for him [favorable mention] among later generations:"
+    },
+    {
+      "number": 3918,
+      "numberInSurah": 130,
+      "juz": 23,
+      "text": "سَلَٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+      "translation": "\"Peace upon Elias.\""
+    },
+    {
+      "number": 3919,
+      "numberInSurah": 131,
+      "juz": 23,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translation": "Indeed, We thus reward the doers of good."
+    },
+    {
+      "number": 3920,
+      "numberInSurah": 132,
+      "juz": 23,
+      "text": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+      "translation": "Indeed, he was of Our believing servants."
+    },
+    {
+      "number": 3921,
+      "numberInSurah": 133,
+      "juz": 23,
+      "text": "وَإِنَّ لُوطًۭا لَّمِنَ ٱلْمُرْسَلِينَ",
+      "translation": "And indeed, Lot was among the messengers."
+    },
+    {
+      "number": 3922,
+      "numberInSurah": 134,
+      "juz": 23,
+      "text": "إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "translation": "[So mention] when We saved him and his family, all,"
+    },
+    {
+      "number": 3923,
+      "numberInSurah": 135,
+      "juz": 23,
+      "text": "إِلَّا عَجُوزًۭا فِى ٱلْغَٰبِرِينَ",
+      "translation": "Except his wife among those who remained [with the evildoers]."
+    },
+    {
+      "number": 3924,
+      "numberInSurah": 136,
+      "juz": 23,
+      "text": "ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ",
+      "translation": "Then We destroyed the others."
+    },
+    {
+      "number": 3925,
+      "numberInSurah": 137,
+      "juz": 23,
+      "text": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
+      "translation": "And indeed, you pass by them in the morning"
+    },
+    {
+      "number": 3926,
+      "numberInSurah": 138,
+      "juz": 23,
+      "text": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+      "translation": "And at night. Then will you not use reason?"
+    },
+    {
+      "number": 3927,
+      "numberInSurah": 139,
+      "juz": 23,
+      "text": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "translation": "And indeed, Jonah was among the messengers."
+    },
+    {
+      "number": 3928,
+      "numberInSurah": 140,
+      "juz": 23,
+      "text": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "translation": "[Mention] when he ran away to the laden ship."
+    },
+    {
+      "number": 3929,
+      "numberInSurah": 141,
+      "juz": 23,
+      "text": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
+      "translation": "And he drew lots and was among the losers."
+    },
+    {
+      "number": 3930,
+      "numberInSurah": 142,
+      "juz": 23,
+      "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+      "translation": "Then the fish swallowed him, while he was blameworthy."
+    },
+    {
+      "number": 3931,
+      "numberInSurah": 143,
+      "juz": 23,
+      "text": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+      "translation": "And had he not been of those who exalt Allah,"
+    },
+    {
+      "number": 3932,
+      "numberInSurah": 144,
+      "juz": 23,
+      "text": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "translation": "He would have remained inside its belly until the Day they are resurrected."
+    },
+    {
+      "number": 3933,
+      "numberInSurah": 145,
+      "juz": 23,
+      "text": "۞ فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌۭ",
+      "translation": "But We threw him onto the open shore while he was ill."
+    },
+    {
+      "number": 3934,
+      "numberInSurah": 146,
+      "juz": 23,
+      "text": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ مِّن يَقْطِينٍۢ",
+      "translation": "And We caused to grow over him a gourd vine."
+    },
+    {
+      "number": 3935,
+      "numberInSurah": 147,
+      "juz": 23,
+      "text": "وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "translation": "And We sent him to [his people of] a hundred thousand or more."
+    },
+    {
+      "number": 3936,
+      "numberInSurah": 148,
+      "juz": 23,
+      "text": "فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍۢ",
+      "translation": "And they believed, so We gave them enjoyment [of life] for a time."
+    },
+    {
+      "number": 3937,
+      "numberInSurah": 149,
+      "juz": 23,
+      "text": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
+      "translation": "So inquire of them, [O Muhammad], \"Does your Lord have daughters while they have sons?"
+    },
+    {
+      "number": 3938,
+      "numberInSurah": 150,
+      "juz": 23,
+      "text": "أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًۭا وَهُمْ شَٰهِدُونَ",
+      "translation": "Or did We create the angels as females while they were witnesses?\""
+    },
+    {
+      "number": 3939,
+      "numberInSurah": 151,
+      "juz": 23,
+      "text": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+      "translation": "Unquestionably, it is out of their [invented] falsehood that they say,"
+    },
+    {
+      "number": 3940,
+      "numberInSurah": 152,
+      "juz": 23,
+      "text": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَٰذِبُونَ",
+      "translation": "\" Allah has begotten,\" and indeed, they are liars."
+    },
+    {
+      "number": 3941,
+      "numberInSurah": 153,
+      "juz": 23,
+      "text": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
+      "translation": "Has He chosen daughters over sons?"
+    },
+    {
+      "number": 3942,
+      "numberInSurah": 154,
+      "juz": 23,
+      "text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "translation": "What is [wrong] with you? How do you make judgement?"
+    },
+    {
+      "number": 3943,
+      "numberInSurah": 155,
+      "juz": 23,
+      "text": "أَفَلَا تَذَكَّرُونَ",
+      "translation": "Then will you not be reminded?"
+    },
+    {
+      "number": 3944,
+      "numberInSurah": 156,
+      "juz": 23,
+      "text": "أَمْ لَكُمْ سُلْطَٰنٌۭ مُّبِينٌۭ",
+      "translation": "Or do you have a clear authority?"
+    },
+    {
+      "number": 3945,
+      "numberInSurah": 157,
+      "juz": 23,
+      "text": "فَأْتُوا۟ بِكِتَٰبِكُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "translation": "Then produce your scripture, if you should be truthful."
+    },
+    {
+      "number": 3946,
+      "numberInSurah": 158,
+      "juz": 23,
+      "text": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًۭا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+      "translation": "And they have claimed between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought to [punishment]."
+    },
+    {
+      "number": 3947,
+      "numberInSurah": 159,
+      "juz": 23,
+      "text": "سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "translation": "Exalted is Allah above what they describe,"
+    },
+    {
+      "number": 3948,
+      "numberInSurah": 160,
+      "juz": 23,
+      "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation": "Except the chosen servants of Allah [who do not share in that sin]."
+    },
+    {
+      "number": 3949,
+      "numberInSurah": 161,
+      "juz": 23,
+      "text": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+      "translation": "So indeed, you [disbelievers] and whatever you worship,"
+    },
+    {
+      "number": 3950,
+      "numberInSurah": 162,
+      "juz": 23,
+      "text": "مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ",
+      "translation": "You cannot tempt [anyone] away from Him"
+    },
+    {
+      "number": 3951,
+      "numberInSurah": 163,
+      "juz": 23,
+      "text": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
+      "translation": "Except he who is to [enter and] burn in the Hellfire."
+    },
+    {
+      "number": 3952,
+      "numberInSurah": 164,
+      "juz": 23,
+      "text": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ",
+      "translation": "[The angels say], \"There is not among us any except that he has a known position."
+    },
+    {
+      "number": 3953,
+      "numberInSurah": 165,
+      "juz": 23,
+      "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+      "translation": "And indeed, we are those who line up [for prayer]."
+    },
+    {
+      "number": 3954,
+      "numberInSurah": 166,
+      "juz": 23,
+      "text": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+      "translation": "And indeed, we are those who exalt Allah.\""
+    },
+    {
+      "number": 3955,
+      "numberInSurah": 167,
+      "juz": 23,
+      "text": "وَإِن كَانُوا۟ لَيَقُولُونَ",
+      "translation": "And indeed, the disbelievers used to say,"
+    },
+    {
+      "number": 3956,
+      "numberInSurah": 168,
+      "juz": 23,
+      "text": "لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ",
+      "translation": "\"If we had a message from [those of] the former peoples,"
+    },
+    {
+      "number": 3957,
+      "numberInSurah": 169,
+      "juz": 23,
+      "text": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+      "translation": "We would have been the chosen servants of Allah.\""
+    },
+    {
+      "number": 3958,
+      "numberInSurah": 170,
+      "juz": 23,
+      "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
+      "translation": "But they disbelieved in it, so they are going to know."
+    },
+    {
+      "number": 3959,
+      "numberInSurah": 171,
+      "juz": 23,
+      "text": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
+      "translation": "And Our word has already preceded for Our servants, the messengers,"
+    },
+    {
+      "number": 3960,
+      "numberInSurah": 172,
+      "juz": 23,
+      "text": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
+      "translation": "[That] indeed, they would be those given victory"
+    },
+    {
+      "number": 3961,
+      "numberInSurah": 173,
+      "juz": 23,
+      "text": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَٰلِبُونَ",
+      "translation": "And [that] indeed, Our soldiers will be those who overcome."
+    },
+    {
+      "number": 3962,
+      "numberInSurah": 174,
+      "juz": 23,
+      "text": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
+      "translation": "So, [O Muhammad], leave them for a time."
+    },
+    {
+      "number": 3963,
+      "numberInSurah": 175,
+      "juz": 23,
+      "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "translation": "And see [what will befall] them, for they are going to see."
+    },
+    {
+      "number": 3964,
+      "numberInSurah": 176,
+      "juz": 23,
+      "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "translation": "Then for Our punishment are they impatient?"
+    },
+    {
+      "number": 3965,
+      "numberInSurah": 177,
+      "juz": 23,
+      "text": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "translation": "But when it descends in their territory, then evil is the morning of those who were warned."
+    },
+    {
+      "number": 3966,
+      "numberInSurah": 178,
+      "juz": 23,
+      "text": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
+      "translation": "And leave them for a time."
+    },
+    {
+      "number": 3967,
+      "numberInSurah": 179,
+      "juz": 23,
+      "text": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "translation": "And see, for they are going to see."
+    },
+    {
+      "number": 3968,
+      "numberInSurah": 180,
+      "juz": 23,
+      "text": "سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+      "translation": "Exalted is your Lord, the Lord of might, above what they describe."
+    },
+    {
+      "number": 3969,
+      "numberInSurah": 181,
+      "juz": 23,
+      "text": "وَسَلَٰمٌ عَلَى ٱلْمُرْسَلِينَ",
+      "translation": "And peace upon the messengers."
+    },
+    {
+      "number": 3970,
+      "numberInSurah": 182,
+      "juz": 23,
+      "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "translation": "And praise to Allah, Lord of the worlds."
+    }
+  ]
+}

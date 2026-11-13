@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "thumb": "assets/pics/photo_1_thumb.webp",
+    "full": "assets/pics/photo_1_full.webp",
+    "caption_ar": "تاج الدين مزيود",
+    "caption_en": "Tadjeddine Mezioud",
+    "sub_ar": "رحمه الله وأسكنه فسيح جناته",
+    "sub_en": "May Allah have mercy on him"
+  },
+  {
+    "id": 2,
+    "thumb": "assets/pics/photo_2_thumb.webp",
+    "full": "assets/pics/photo_2_full.webp",
+    "caption_ar": "تاج الدين مزيود",
+    "caption_en": "Tadjeddine Mezioud",
+    "sub_ar": "رحمه الله وأسكنه فسيح جناته",
+    "sub_en": "May Allah have mercy on him"
+  },
+  {
+    "id": 3,
+    "thumb": "assets/pics/photo_3_thumb.webp",
+    "full": "assets/pics/photo_3_full.webp",
+    "caption_ar": "تاج الدين مزيود",
+    "caption_en": "Tadjeddine Mezioud",
+    "sub_ar": "رحمه الله وأسكنه فسيح جناته",
+    "sub_en": "May Allah have mercy on him"
+  },
+  {
+    "id": 4,
+    "thumb": "assets/pics/photo_4_thumb.webp",
+    "full": "assets/pics/photo_4_full.webp",
+    "caption_ar": "تاج الدين مزيود",
+    "caption_en": "Tadjeddine Mezioud",
+    "sub_ar": "رحمه الله وأسكنه فسيح جناته",
+    "sub_en": "May Allah have mercy on him"
+  },
+  {
+    "id": 5,
+    "thumb": "assets/pics/photo_5_thumb.webp",
+    "full": "assets/pics/photo_5_full.webp",
+    "caption_ar": "تاج الدين مزيود",
+    "caption_en": "Tadjeddine Mezioud",
+    "sub_ar": "رحمه الله وأسكنه فسيح جناته",
+    "sub_en": "May Allah have mercy on him"
+  }
+]
